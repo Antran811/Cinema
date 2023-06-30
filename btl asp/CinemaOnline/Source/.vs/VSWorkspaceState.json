@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CinemaOnline",
+    "\\CinemaOnline\\Areas",
+    "\\CinemaOnline\\Areas\\Admin",
+    "\\CinemaOnline\\Areas\\Admin\\Views",
+    "\\CinemaOnline\\Areas\\Admin\\Views\\Film",
+    "\\CinemaOnline\\Areas\\Admin\\Views\\News"
+  ],
+  "SelectedNode": "\\CinemaOnline\\Areas\\Admin\\Views\\News\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}

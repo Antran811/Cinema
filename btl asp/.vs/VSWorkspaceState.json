@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CinemaOnline",
+    "\\CinemaOnline\\Source",
+    "\\CinemaOnline\\Source\\CinemaOnline",
+    "\\CinemaOnline\\Source\\CinemaOnline\\Areas",
+    "\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin",
+    "\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin\\Views",
+    "\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin\\Views\\SeatType",
+    "\\CinemaOnline\\Source\\CinemaOnline\\Views",
+    "\\CinemaOnline\\Source\\CinemaOnline\\Views\\Shared"
+  ],
+  "SelectedNode": "\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin\\Views\\Film\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

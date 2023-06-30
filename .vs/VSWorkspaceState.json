@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\btl asp",
+    "\\btl asp\\CinemaOnline",
+    "\\btl asp\\CinemaOnline\\Source",
+    "\\btl asp\\CinemaOnline\\Source\\CinemaOnline",
+    "\\btl asp\\CinemaOnline\\Source\\CinemaOnline\\Areas",
+    "\\btl asp\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin",
+    "\\btl asp\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin\\Views",
+    "\\btl asp\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin\\Views\\Film",
+    "\\btl asp\\CinemaOnline\\Source\\CinemaOnline\\Views",
+    "\\btl asp\\CinemaOnline\\Source\\CinemaOnline\\Views\\Shared"
+  ],
+  "SelectedNode": "\\btl asp\\CinemaOnline\\Source\\CinemaOnline\\Areas\\Admin\\Views\\Film\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}
